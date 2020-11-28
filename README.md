@@ -1,1 +1,1 @@
-# ML_GasDispersion
+Three supervised Machine Learning methods (k-NN Regression, Random Forest Regression and Neural Network) are used to predict the atmospheric gas dispersion. The datasets used for this study are Round Hill dataset ( http://www.harmo.org/jsirwin/RoundHillDiscussion.html ) and Prairie Grass dataset ( http://www.harmo.org/jsirwin/PrairieGrassDiscussion.html )
